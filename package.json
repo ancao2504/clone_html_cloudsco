@@ -1,0 +1,23 @@
+{
+  "name": "clone_html_cloudsco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancao2504/clone_html_fredsfruit_com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancao2504/clone_html_fredsfruit_com/issues"
+  },
+  "homepage": "https://github.com/ancao2504/clone_html_fredsfruit_com#readme",
+  "dependencies": {
+    "website-scraper": "^4.2.3",
+    "website-scraper-puppeteer": "^0.1.5"
+  }
+}
